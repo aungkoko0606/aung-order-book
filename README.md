@@ -29,7 +29,7 @@ To install the project and its dependencies, follow these steps:
 1. Clone the repository from GitHub:
 
     ```bash
-    git clone https://github.com/aungkoko0606/
+    git clone https://github.com/aungkoko0606/aung-order-book
     cd {your-project}
 
     ```
